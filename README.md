@@ -2,7 +2,7 @@
 
 This project can be used as a starter for a webapp built with CodeIgniter 3.1.
 
-This starter builds on (CodeIgniter3.1-starter1)[https://github.com/jedi-academy/CodeIgniter3.1-starter1],
+This starter builds on [CodeIgniter3.1-starter1](https://github.com/jedi-academy/CodeIgniter3.1-starter1),
 adding a base controller with view templating.
 
 **controllers/Welcome.php** has been modified to set the name of the desired
